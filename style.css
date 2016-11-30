@@ -1,0 +1,13 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-navbar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-paw,.fa-heart {font-size:200px}
+
+.carousel-inner > .item > img,
+
+.carousel-inner > .item > a > img {
+
+    width: 70%;
+
+    margin: auto;
+
+}
